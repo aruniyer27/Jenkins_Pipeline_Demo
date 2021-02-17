@@ -4,7 +4,7 @@
    <groupId>Com.QATechTesting</groupId>
    <artifactId>REST-assured_Cucumber</artifactId>
    <version>0.0.1-SNAPSHOT</version>
-   <url>http://34.93.102.37:8082/artifactory/maven-hub-remote/</url>
+   <url>http://34.93.102.37:8082/artifactory/maven-hub-remote</url>
    <packaging>jar</packaging>
    <name>REST-assured_Cucumber</name>
    
