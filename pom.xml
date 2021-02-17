@@ -68,12 +68,12 @@
       <repository>
          <id>central</id>
          <name>arunkg-apac-artifactory-node-releases</name>
-         <url>http://34.93.102.37:8081/artifactory/jenkins-artifact</url>
+         <url>http://34.93.102.37:8082/artifactory/jenkins-artifact</url>
       </repository>
       <snapshotRepository>
          <id>snapshots</id>
          <name>arunkg-apac-artifactory-node-snapshots</name>
-         <url>http://34.93.102.37:8081/artifactory/jenkins-artifact</url>
+         <url>http://34.93.102.37:8082/artifactory/jenkins-artifact</url>
       </snapshotRepository>
    </distributionManagement>
    <build>
