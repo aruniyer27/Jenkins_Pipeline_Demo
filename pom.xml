@@ -74,7 +74,19 @@
 			<version>4.1.1</version>
 			<scope>test</scope>
 		</dependency>
+		
 	</dependencies>
+	
+	<repositories>
+  <repository>
+     <id>REST</id>
+     <name>REST-assured_Cucumber</name>
+     <snapshots>
+                <enabled>true</enabled>
+     </snapshots>
+     <url>http://34.93.102.37:8082/artifactory/</url>
+  </repository>
+</repositories>
 	<build>
 		<plugins>
 			<plugin>
