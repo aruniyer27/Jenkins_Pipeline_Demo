@@ -1,0 +1,5 @@
+<server>
+   <username>jenkins</username>
+   <password>Admin@123</password>
+   <id>central</id>
+</server>
