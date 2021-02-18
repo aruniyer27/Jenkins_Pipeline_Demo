@@ -11,7 +11,7 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <cucumber.version>4.7.0</cucumber.version>
       <testng.version>6.14.3</testng.version>
-      <artifactory.url>http://34.93.102.37:8082/artifactory/maven-hub-remote</artifactory.url>
+      <artifactory.url>http://34.93.102.37:8082/artifactory/jenkins</artifactory.url>
    </properties>
    <dependencies>
       <dependency>
@@ -69,12 +69,12 @@
       <repository>
          <id>central</id>
          <name>arunkg-apac-artifactory-node-releases</name>
-         <url>http://34.93.102.37:8082/artifactory/jenkins-artifact</url>
+         <url>http://34.93.102.37:8082/artifactory/jenkins</url>
       </repository>
       <snapshotRepository>
          <id>snapshots</id>
          <name>arunkg-apac-artifactory-node-snapshots</name>
-         <url>http://34.93.102.37:8082/artifactory/jenkins-artifact</url>
+         <url>http://34.93.102.37:8082/artifactory/jenkins</url>
       </snapshotRepository>
    </distributionManagement>
    <build>
